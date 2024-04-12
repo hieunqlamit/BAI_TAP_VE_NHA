@@ -1,0 +1,21 @@
+7. Tác dụng của lệnh return là dùng khi muốn thoát khỏi hàm hoặc trả lại kết quả cho hàm
+8. Có thể truyền bao nhiêu đối số cũng được 
+9. khai báo "char x();" là không hợp lệ
+10. Kiểu trả về của hàm là int
+11. Lời gọi hàm C 
+12. Hàm B là một hàm hoàn chỉnh
+13. Chạy đúng như mong muốn
+14. Chương trình gặp lỗi biên dịch vì 2 biến s, k không được khởi tạo trước khi truyền cho hàm
+15. Đoạn code in ra 4
+16. Thời gian biên dịch
+17. Nếu một hàm được viết để sử dụng cho một chương trình có sẵn thì nó có thể được đưa vào thư viện hàm để các chương trình khác có thể sử dụng được
+18. Số tham số và thứ tự các tham số thật phải đúng như các tham số hình thức trong khai báo hàm
+19. void
+20. C
+21. Giá trị
+22. Trước khi gọi phải khai báo
+23. Hàm main là một ví dụ về hàm do người dùng định nghĩa
+24. Đúng
+25. A vì trong c++ thì không thể định nghĩa một hàm khác bên trong 1 hàm khác.
+26. Hàm main là hàm có thể được gọi bình thường như các hàm khác.
+
