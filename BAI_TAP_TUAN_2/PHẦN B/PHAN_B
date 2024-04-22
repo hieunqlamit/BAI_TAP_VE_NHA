@@ -1,0 +1,22 @@
+Câu 1: Đoạn mã có thể thay thế cho lệnh (tam nguyên ) là 
+        if (a<b) min = a;
+ 	else min = b;
+Câu 2: Quên lệnh ngắt break trong cấu trúc lệnh switch là mắc lỗi biên dịch
+Câu 3: Các nhãn case phải là hằng (kiểu số nguyên hoặc kiểu ký tự), chứ không thể là biến hay biểu thức chứa biến.
+Câu 4: In ra các số nguyên chia hết cho 5 nằm trong khoảng từ 1 tới 50.
+Câu 5: Có thể thiếu bất cứ biểu thức nào trong ba biểu thức trên
+Câu 6: break;
+Câu 7: In ra 10
+Câu 8: Một đoạn code bất kỳ sử dụng một trong 3 kiểu lặp while, do- while hoặc for thì nó cũng có thể được xây dựng bằng một trong hai kiểu lặp còn lại.
+Câu 9: Kết quả in ra màn hình là C
+Câu 10: 45
+Câu 11: The sum is 9          
+Câu 12: 120 50 70
+Câu 13: 3
+Câu 14: ý d
+Câu 15: ý b
+Câu 16: ý c
+Câu 17: ý c
+Câu 18: Không in gì
+Câu 19: ý c
+Câu 20: ý b
