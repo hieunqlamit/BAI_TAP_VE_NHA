@@ -1,0 +1,8 @@
+1. ii.	p = &n;
+2. iii 	p1 = p2;
+3. iv Tất cả các phép toán với con trỏ kiểu int
+4. iv Tất cả các phát biểu trên
+5. iv Tất cả các phát biểu trên
+6. ii.	void bubble(int [], const int, bool * (int, int));
+7. iii.	2 2 3
+

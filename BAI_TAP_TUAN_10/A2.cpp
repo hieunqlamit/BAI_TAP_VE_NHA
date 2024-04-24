@@ -1,0 +1,1 @@
+// Lỗi xảy ra tại dòng 'delete p ' mà sau đó chúng ta cố gắng gán giá trị cho ô nhớ đã bị giải phóng này tại dòng '*p2 = 100'. Khi chúng ta giải phóng bộ nhớ mà con trỏ 'p' trỏ tới, ta không thể truy cập hoặc ghi vào ô nhớ đó một cách an toàn.
